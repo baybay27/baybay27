@@ -1,4 +1,4 @@
-### Hi there 👋
+### untuk yang biodata saya tidak punya file html nya pak, sudah terhapus
 
 <!--
 **baybay27/baybay27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
