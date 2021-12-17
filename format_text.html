@@ -1,0 +1,31 @@
+<html>
+
+<style>
+    .blink-bg{
+		color: #fff;
+		padding: 10px;
+		display: inline-block;
+		border-radius: 5px;
+		animation: blinkingBackground 0.1s infinite;
+	}
+	@keyframes blinkingBackground{
+		0%		{ background-color: #10c018;}
+		25%		{ background-color: #1056c0;}
+		50%		{ background-color: #ef0a1a;}
+		75%		{ background-color: #254878;}
+		100%	        { background-color: #04a1d5;}
+	}
+</style>
+
+<body class="blink-bg" style="display: flex; align-items: center; justify-content: center;">
+    <h1 style="text-align: center;"> <b>Ini teks tebal</b>
+        <br />
+        <i>Ini teks miring</i>
+        <br />
+        <u>Ini teks underline</u>
+        <br />
+        <span style="color: red;">Ini teks berwarna merah</span>
+    </h1>
+</body>
+
+</html>
